@@ -1,0 +1,13 @@
+mall,outcome,model,n,min_coef,max_coef,sign_flip,share_p_below_05
+Lenox Square,log_income,controlled_linear,23,0.013513979362680395,0.021200110858161758,False,0.782608695652174
+Lenox Square,log_income,controlled_quadratic,23,0.014544482259379182,0.054756126149110185,False,0.0
+Lenox Square,gini,controlled_linear,24,-0.0018420431161689302,0.00040581614270713065,True,0.0
+Lenox Square,gini,controlled_quadratic,24,-0.013145593750187265,-0.0059497842969754265,False,0.041666666666666664
+Phipps Plaza,log_income,controlled_linear,23,0.008628227174489633,0.016451751096618505,False,0.08695652173913043
+Phipps Plaza,log_income,controlled_quadratic,23,0.009003495585246712,0.053277082777754434,False,0.0
+Phipps Plaza,gini,controlled_linear,24,-0.001904268067496051,5.61277803745458e-05,True,0.0
+Phipps Plaza,gini,controlled_quadratic,24,-0.010801136372669575,-0.004568161963016409,False,0.0
+Ponce City Market,log_income,controlled_linear,23,-0.0025218184074261574,0.0052793423335317224,True,0.0
+Ponce City Market,log_income,controlled_quadratic,23,-0.06220857416671757,-0.010421370627982013,False,0.0
+Ponce City Market,gini,controlled_linear,24,-0.0013157775317174034,0.001485264926106858,True,0.0
+Ponce City Market,gini,controlled_quadratic,24,-0.006561210331234007,0.009294846928297046,True,0.0
